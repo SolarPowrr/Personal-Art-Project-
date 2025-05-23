@@ -14,7 +14,7 @@
 ## 1. Time Planning
 
 - While I didn’t create a definitive calendar, I knew from previous projects that structure is key. Without a solid foundation of the way I plan to execute my plan, it all falls apart quickly. With that in mind, I decided to focus on these areas in this particular order:
-###- Research
+-### Research
 ###- Concept Sketches
 ###- Production
 ###- Finalising
