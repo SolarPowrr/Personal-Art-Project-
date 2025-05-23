@@ -68,7 +68,7 @@
 
 - After many iterations deciding on colours and shapes, I finally landed with this design, something that I’m proud of, and feel like it’s polished enough to continue with. The colours slightly darker, and the shape of the dress has been completely overhauled; Unfortunately, the trench coat fold had to be scrapped, however I believe this design puts a bigger emphasis on the tie, which is now a neon green, a very deliberate colour which matches that of the stained glass windows seen on the sides of the church in Deltarune. This is also the first iteration of the character to have arms, legs and eyes, something that I felt would come naturally when the shape of the body felt right to accommodate it. To go along with the theme of the trailer, where the characters have an orange tint to them, I decided to make a version of the character that was tinted likewise:
 
-![Seraphone Design 3 Alt. Colour](images/seraphoneV3conceptWindowst.png)
+![Seraphone Design 3 Alt. Colour](images/seraphoneV3concepWindowst.png)
 
 - After studying more of the character designs, I realised that a lot of them have many “imperfection”, such as slightly mismatching proportion sizes, or missing large amounts of anti-aliasing, which I tried to show in this sprite while still attempting to keep it in a slightly more defined style.
 - To circle back to the original concept art, I decided to create a basic attacking/stance animation, where Seraphone emerges their sharp, wing-like spikes from their back. I thought the added sharpness and aggression would further build on their visual design; A character who is seemingly quite harmless at first, suddenly revealing a hidden side to themselves that comes off as threatening.
