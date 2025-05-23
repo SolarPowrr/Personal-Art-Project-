@@ -14,10 +14,10 @@
 ## 1. Time Planning
 
 - While I didn’t create a definitive calendar, I knew from previous projects that structure is key. Without a solid foundation of the way I plan to execute my plan, it all falls apart quickly. With that in mind, I decided to focus on these areas in this particular order:
--### Research
-###- Concept Sketches
-###- Production
-###- Finalising
+- Research
+- Concept Sketches
+- Production
+- Finalising
 - By trying to force myself to do things in an iterative order (rather than rushing straight to production and finalising), this forces me to think more about the core idea of my art, and make sure I’m using enough references. Using my previous projects as an example, oftentimes a strong plan keeps momentum running and workflow organised. It can especially help break work down, to help avoid scrambling work together at the last second.
 
 - One big obstacle for me was the Easter Break. As someone who is very comfortable in routine, travelling home can often be stressful, as it’s not an environment that I associate with my Immersive Technology workflow. To combat this, I decided to spend more time at likeminded friend’s houses, and at the public library to break up my spaces for work and leisure. Overall, this helped me produce quality work during my time away, and ensured that the break wouldn’t disrupt my workflow.
