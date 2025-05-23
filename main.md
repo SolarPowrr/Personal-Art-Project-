@@ -28,9 +28,9 @@
 
 - For my idea, I decided to pull from the trailer for Deltarune: Chapter 3 + 4, in which the chapter’s world is clearly inside of a church. While the game doesn’t have much to pull from in terms of the church itself, the current chapters allude to something bigger in the world these characters live in. Many of the more important characters note the main protagonist, Kris, having a Soul, and have motifs of feeling controlled, wanting freedom, and higher powers. Going with this, I decided my character would be a false prophet, claiming to have connections to some kind of higher power using the motif of telephones. In Deltarune, Kis is given a telephone, although it serves no purpose (for now). I decided my character would have ties to this unused mechanic, being able to help the character by giving them hints and telling them how to reach them. Given this idea, I landed on the name “Seraphone”, a combination of seraph and phone. With this in hand, I decided to browse various art sharing platforms for character designs of a seraph in media.
 
-![Seraph Reference 1](images/Seraph1.jpg)
-![Seraph Reference 2](images/Seraph2.jpg)
-![Seraph Reference 3](images/Seraph3.jpg)
+![Seraph Reference 1](images/Seraph1byAi.jpg)
+![Seraph Reference 2](images/Seraph2byVin.jpg)
+![Seraph Reference 3](images/Seraph3byAshuraMuzas.jpg)
 
 - These pieces specifically spoke to me a lot; the combination of sharp edges combined with rounded shape gave the idea of a soft, yet powerful entity. Something that I quickly noticed was that a lot of these designs left the sex of the character quite ambiguous, which further fueled the idea of my character, that being a goal of connectedness, or a marriage of the world’s inhabitants and this higher being. Many of the other characters who are aware that something bigger is at play in Deltarune are usually either trying to break away from it or are scared of it, so I thought the idea that a character is not only fully trusting of these unknown higher forces, but actively trying to encourage people into it was a unique direction. I wanted the idea of marriage to be conveyed in both dialogue and design in many subtle ways, such as the combination of using both a dress, headpiece, feminine eyes and broad shoulders, a tie, or sharper shapes. 
 
