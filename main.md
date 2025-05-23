@@ -11,7 +11,7 @@
 
 ---
 
-## 1. Time Planning *(400–500 words)*
+## 1. Time Planning
 
 - While I didn’t create a definitive calendar, I knew from previous projects that structure is key. Without a solid foundation of the way I plan to execute my plan, it all falls apart quickly. With that in mind, I decided to focus on these areas in this particular order:
 ###- Research
@@ -24,9 +24,8 @@
 
 ---
 
-## 2. demonstration of research *(400–500 words)*
+## 2. Research
 
-- references used/artists inspiring your work
 - For my idea, I decided to pull from the trailer for Deltarune: Chapter 3 + 4, in which the chapter’s world is clearly inside of a church. While the game doesn’t have much to pull from in terms of the church itself, the current chapters allude to something bigger in the world these characters live in. Many of the more important characters note the main protagonist, Kris, having a Soul, and have motifs of feeling controlled, wanting freedom, and higher powers. Going with this, I decided my character would be a false prophet, claiming to have connections to some kind of higher power using the motif of telephones. In Deltarune, Kis is given a telephone, although it serves no purpose (for now). I decided my character would have ties to this unused mechanic, being able to help the character by giving them hints and telling them how to reach them. Given this idea, I landed on the name “Seraphone”, a combination of seraph and phone. With this in hand, I decided to browse various art sharing platforms for character designs of a seraph in media.
 
 !Seraph Reference 1](images/Seraph1.png)
@@ -45,7 +44,7 @@
 
 ---
 
-## 3. showcase of concept art/early prototypes *(500–600 words)*
+## 3. Prototypes/Early Stages
 
 !Seraphone Design Sketch](images/SeraphoneSketchConcept)
 
@@ -63,7 +62,7 @@
 
 - Going forward, I knew that the colours still looked a little out of place, and the deliberate pink and blue was a little too on the nose. The dress was also starting to look out of place, as I’m not sure the jacket-style trenchcoat made the character’s personality really come across, giving more the feeling of secrecy than elegance. I also needed to work out the way the arms would work.
 
-## 4. production of assets *(500–600 words)*
+## 4. Production
 
 !Seraphone Design 3](images/SeraphoneV3Concept)
 
@@ -87,7 +86,7 @@
 - Typically in Deltarune, backgrounds that are used for battles (and backgrounds as a whole) are monochrome, and don’t feature many more than a handful of colours, most of which being the same colour. With this limitation, I created a simplistic background, using just two shades of yellow and black. The only exception is the glass stained windows, which use 6, and their reflections. I decided to add these because I thought it added a sense of light to the higher area, creating a further divide between the ground floor and the raised platform where the boss actually stands; The large, intricate platform with the brick texture, the pattern on the floor, and the larger, more pronounced pillars contrasted with the simpler raised area reflects on the character’s design and their intentions narratively.
 
 
-## 5. implementation *(400-500)*
+## 5. Implementation
 
 - Now that a large majority of the sprites were put into place, it was time to assemble them into the scene, and combine it with the UI. Using assets from the game, I added custom text to the UI, and created a custom text box icon for the character:
 
@@ -99,7 +98,7 @@
 !Seraphone Battle](images/SeraphoneBattleExportHigher)
 !Seraphone Battle](images/SeraphoneBattleExportLower)
 
-## 7. conclusion *(200-300)*
+## 7. Conclusion
 
 - In conclusion, while I was overall satisfied with the idea of the project, I definitely could have used a bit more direction, as much of the project was spent frustratingly reiterating on the same design with little showable progress or changes, ultimately leading to a lot of time wasted. However, as a final product, I believe that what I’ve been able to showcase is comparable to the style of Deltarune, which was enough of an achievement in itself for me. Ideally, given more time and more knowledge of the tools available to me, I would have made more animations for the character, such as showcasing attacks, or displaying unique UI elements. I also wanted to write dialogue for this character, which I unfortunately didn’t decide on wanting to do until it felt too late to implement it into the project. Next time, I would spend less time on each individual asset, and try further to get my entire idea across, rather than polishing a few assets to an incredibly high quality.
 
