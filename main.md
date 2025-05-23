@@ -28,17 +28,17 @@
 
 - For my idea, I decided to pull from the trailer for Deltarune: Chapter 3 + 4, in which the chapter’s world is clearly inside of a church. While the game doesn’t have much to pull from in terms of the church itself, the current chapters allude to something bigger in the world these characters live in. Many of the more important characters note the main protagonist, Kris, having a Soul, and have motifs of feeling controlled, wanting freedom, and higher powers. Going with this, I decided my character would be a false prophet, claiming to have connections to some kind of higher power using the motif of telephones. In Deltarune, Kis is given a telephone, although it serves no purpose (for now). I decided my character would have ties to this unused mechanic, being able to help the character by giving them hints and telling them how to reach them. Given this idea, I landed on the name “Seraphone”, a combination of seraph and phone. With this in hand, I decided to browse various art sharing platforms for character designs of a seraph in media.
 
-![Seraph Reference 1](images/Seraph1.png)
-![Seraph Reference 2](images/Seraph2.png)
-![Seraph Reference 3](images/Seraph3.png)
+![Seraph Reference 1](images/Seraph1.jpg)
+![Seraph Reference 2](images/Seraph2.jpg)
+![Seraph Reference 3](images/Seraph3.jpg)
 
 - These pieces specifically spoke to me a lot; the combination of sharp edges combined with rounded shape gave the idea of a soft, yet powerful entity. Something that I quickly noticed was that a lot of these designs left the sex of the character quite ambiguous, which further fueled the idea of my character, that being a goal of connectedness, or a marriage of the world’s inhabitants and this higher being. Many of the other characters who are aware that something bigger is at play in Deltarune are usually either trying to break away from it or are scared of it, so I thought the idea that a character is not only fully trusting of these unknown higher forces, but actively trying to encourage people into it was a unique direction. I wanted the idea of marriage to be conveyed in both dialogue and design in many subtle ways, such as the combination of using both a dress, headpiece, feminine eyes and broad shoulders, a tie, or sharper shapes. 
 
 - On top of designing the character, I also needed to find inspiration for the set design that you would find our character in. For this, I wanted to capture the feeling of tall cathedrals, with the ceiling often being several stories high, and large towering pillars. I drew a lot of inspiration from ancient greek architecture, such as the Parthenon and the Temple of Zeus, as well as the design of European cathedrals.
 
-![Architecture Reference 1](images/TempleOfZeus.png)
-![Architecture Reference 2](images/Parthenon.png)
-!A[rchitecture Reference 3](images/WinchesterCathedral.png)
+![Architecture Reference 1](images/TempleOfZeus.jpg)
+![Architecture Reference 2](images/Parthenon.jpg)
+!A[rchitecture Reference 3](images/WinchesterCathedral.jpg)
 
 - As an artist, it’s supremely important to survey what kinds of artwork is already out there and launch your thoughts into concepts, and concepts into pieces of work. Seeing the many different interpretations not only allows you to remember that a theme is inherently wide and open to individualistic interpretation, but also find specific ways said theme has been executed in ways that you personally feel is what you want to make.
 
