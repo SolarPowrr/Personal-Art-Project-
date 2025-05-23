@@ -28,17 +28,17 @@
 
 - For my idea, I decided to pull from the trailer for Deltarune: Chapter 3 + 4, in which the chapter’s world is clearly inside of a church. While the game doesn’t have much to pull from in terms of the church itself, the current chapters allude to something bigger in the world these characters live in. Many of the more important characters note the main protagonist, Kris, having a Soul, and have motifs of feeling controlled, wanting freedom, and higher powers. Going with this, I decided my character would be a false prophet, claiming to have connections to some kind of higher power using the motif of telephones. In Deltarune, Kis is given a telephone, although it serves no purpose (for now). I decided my character would have ties to this unused mechanic, being able to help the character by giving them hints and telling them how to reach them. Given this idea, I landed on the name “Seraphone”, a combination of seraph and phone. With this in hand, I decided to browse various art sharing platforms for character designs of a seraph in media.
 
-!Seraph Reference 1](images/Seraph1.png)
-!Seraph Reference 2](images/Seraph2.png)
-!Seraph Reference 3](images/Seraph3.png)
+![Seraph Reference 1](images/Seraph1.png)
+![Seraph Reference 2](images/Seraph2.png)
+![Seraph Reference 3](images/Seraph3.png)
 
 - These pieces specifically spoke to me a lot; the combination of sharp edges combined with rounded shape gave the idea of a soft, yet powerful entity. Something that I quickly noticed was that a lot of these designs left the sex of the character quite ambiguous, which further fueled the idea of my character, that being a goal of connectedness, or a marriage of the world’s inhabitants and this higher being. Many of the other characters who are aware that something bigger is at play in Deltarune are usually either trying to break away from it or are scared of it, so I thought the idea that a character is not only fully trusting of these unknown higher forces, but actively trying to encourage people into it was a unique direction. I wanted the idea of marriage to be conveyed in both dialogue and design in many subtle ways, such as the combination of using both a dress, headpiece, feminine eyes and broad shoulders, a tie, or sharper shapes. 
 
 - On top of designing the character, I also needed to find inspiration for the set design that you would find our character in. For this, I wanted to capture the feeling of tall cathedrals, with the ceiling often being several stories high, and large towering pillars. I drew a lot of inspiration from ancient greek architecture, such as the Parthenon and the Temple of Zeus, as well as the design of European cathedrals.
 
-!Architecture Reference 1](images/TempleOfZeus)
-!Architecture Reference 2](images/Parthenon)
-!Architecture Reference 3](images/WinchesterCathedral)
+![Architecture Reference 1](images/TempleOfZeus.png)
+![Architecture Reference 2](images/Parthenon.png)
+!A[rchitecture Reference 3](images/WinchesterCathedral.png)
 
 - As an artist, it’s supremely important to survey what kinds of artwork is already out there and launch your thoughts into concepts, and concepts into pieces of work. Seeing the many different interpretations not only allows you to remember that a theme is inherently wide and open to individualistic interpretation, but also find specific ways said theme has been executed in ways that you personally feel is what you want to make.
 
@@ -46,17 +46,17 @@
 
 ## 3. Prototypes/Early Stages
 
-!Seraphone Design Sketch](images/SeraphoneSketchConcept)
+![Seraphone Design Sketch](images/SeraphoneSketchConcept.png)
 
 - To begin with, I sketched the idea of the character onto paper, as it's a very quick way to fire out many ideas in a short span of time. Eventually, I got the basics of my character to a point I was happy with. Lots of smoothness contrasted with lots of sharpness, and an overall elegant yet not-too-aggressive look to the character, which was exactly the vision I had in mind. However, I knew that translating these qualities into a small canvas would be tricky. While basic shapes are relatively easy to create in pixel art, both sharpness and smoothness can be tricky to get right, especially without the help of a deep colour palette. 
 
-!Seraphone Design 1](images/SeraphoneV1Concept)
+![Seraphone Design 1](images/SeraphoneV1Concept.png)
 
 - From there, I started to flesh out the design by moving to pixel art. I started with a more neutral colour tone to try and keep things neutral. I tried to make the dress more of a trench coat to keep the character’s design ambiguous by hiding the true shape of their body, and dramaticising the shoulders. I really liked the headpiece from the first reference and thought it added a feminine touch. Overall, while I enjoyed the direction of the character, one of the shapes could be either more rounded or more sharp, as none of the aspects really learned either side.
 
 - Putting the design into pixel art showed how hard it was to capture the sharpness and the roundness of the design in such a small resolution, as well as avoiding simplifying everything down to straight lines. Even though the sketch didn’t feature any colours, it was clear that my palette choice didn’t quite convey what I had intended.
 
-!Seraphone Design 2](images/SeraphoneV2Concept)
+![Seraphone Design 2](images/SeraphoneV2Concept.png)
 
 - In the second design, I reconsidered the colours, opting in for a more traditional pink and blue colour scheme to better highlight the idea of gender ambiguity in the design, colouring the more feminine features with pink and the masculine parts with blue. On top of this, I decided to add a gemstone to their head to further separate it from being too similar to other humanoid entities. As you can see in this (and the previous) image, I still wasn’t sure what I wanted the arms and hands to be positioned like. In the concept art, I had originally envisioned them holding a rock with the Delta Rune logo carved into it, perhaps being a falsely-perceived “gift” from this unknown higher force, but ultimately decided that the contrast of the technology of telephones conflicted too hard with the nature imagery of the rock, and thought it could be better conveyed another way, such as character attacks or dialogue. 
 
@@ -64,24 +64,24 @@
 
 ## 4. Production
 
-!Seraphone Design 3](images/SeraphoneV3Concept)
+![Seraphone Design 3](images/SeraphoneV3Concept.png)
 
 - After many iterations deciding on colours and shapes, I finally landed with this design, something that I’m proud of, and feel like it’s polished enough to continue with. The colours slightly darker, and the shape of the dress has been completely overhauled; Unfortunately, the trench coat fold had to be scrapped, however I believe this design puts a bigger emphasis on the tie, which is now a neon green, a very deliberate colour which matches that of the stained glass windows seen on the sides of the church in Deltarune. This is also the first iteration of the character to have arms, legs and eyes, something that I felt would come naturally when the shape of the body felt right to accommodate it. To go along with the theme of the trailer, where the characters have an orange tint to them, I decided to make a version of the character that was tinted likewise:
 
-!Seraphone Design 3 Alt. Colour](images/SeraphoneV3ConceptWindows)
+![Seraphone Design 3 Alt. Colour](images/SeraphoneV3ConceptWindows.png)
 
 - After studying more of the character designs, I realised that a lot of them have many “imperfection”, such as slightly mismatching proportion sizes, or missing large amounts of anti-aliasing, which I tried to show in this sprite while still attempting to keep it in a slightly more defined style.
 - To circle back to the original concept art, I decided to create a basic attacking/stance animation, where Seraphone emerges their sharp, wing-like spikes from their back. I thought the added sharpness and aggression would further build on their visual design; A character who is seemingly quite harmless at first, suddenly revealing a hidden side to themselves that comes off as threatening.
 
-!Seraphone Spike](images/SeraphoneSprout.gif)
+![Seraphone Spike](images/SeraphoneSprout.gif)
 
 - Now that the design was down, I needed to create a set of basic walking sprites for the character in 4 directions:
 
-!Seraphone Design 3 Alt. Colour](images/SeraphoneV3ConceptAnims)
+![Seraphone Design 3 Alt. Colour](images/SeraphoneV3ConceptAnims.gif)
 
 - I then had to create a scene for the fight to take place in. In Deltarune, many battles take place within a basic background, usually very disconnected from the actual area an enemy might have been encountered in. The usual exceptions to this are for secret bosses, so I only felt it appropriate that I made a unique area for you to fight this character in. To further emphasise the idea of forces from above, I decided to place the character on a platform, with the boss placed high on some pillars. This way, the attacks could revolve around hurtboxes falling from the ceiling, for example sound waves or beams of light that hurt the player. To fight this box, I imagined our protagonist, Kris, would have to employ the help of their party members to throw them up to the platform, allowing them to fight the enemy. However, this leaves Kris alone with the boss, who would slowly try to convert Kris now that they’re isolated.
 
-!Seraphone Battle](images/SeraphoneBattleExportFull)
+![Seraphone Battle](images/SeraphoneBattleExportFull.png)
 
 - Typically in Deltarune, backgrounds that are used for battles (and backgrounds as a whole) are monochrome, and don’t feature many more than a handful of colours, most of which being the same colour. With this limitation, I created a simplistic background, using just two shades of yellow and black. The only exception is the glass stained windows, which use 6, and their reflections. I decided to add these because I thought it added a sense of light to the higher area, creating a further divide between the ground floor and the raised platform where the boss actually stands; The large, intricate platform with the brick texture, the pattern on the floor, and the larger, more pronounced pillars contrasted with the simpler raised area reflects on the character’s design and their intentions narratively.
 
@@ -90,13 +90,13 @@
 
 - Now that a large majority of the sprites were put into place, it was time to assemble them into the scene, and combine it with the UI. Using assets from the game, I added custom text to the UI, and created a custom text box icon for the character:
 
-!Seraphone’s Text Bos](images/seraphoneTextBox)
+![Seraphone’s Text Bos](images/seraphoneTextBox.png)
 
 
 - I decided to make two separate final scenes for my project: One with the characters on the ground, just out of reach, and the other of Kris on top of the platform, separated from their teammates.
 
-!Seraphone Battle](images/SeraphoneBattleExportHigher)
-!Seraphone Battle](images/SeraphoneBattleExportLower)
+![Seraphone Battle](images/SeraphoneBattleExportHigher.png)
+![Seraphone Battle](images/SeraphoneBattleExportLower.png)
 
 ## 7. Conclusion
 
